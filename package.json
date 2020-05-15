@@ -1,0 +1,19 @@
+{
+  "name": "webseries-quotes",
+  "version": "1.0.1",
+  "description": "Web Series Quotes and dialogues",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "web series",
+    "web-series",
+    "quotes",
+    "dialogues",
+    "captions",
+    "daily"
+  ],
+  "author": "Sanchit Jain",
+  "license": "MIT"
+}
