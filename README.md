@@ -1,5 +1,6 @@
 # Web Series Quotes
 
+
 [![NPM VERSION](http://img.shields.io/npm/v/webseries-quotes.svg?style=flat&logo=npm)](https://www.npmjs.com/package/webseries-quotes) 
 
 #### A basic [NPM](https://www.npmjs.com/package/webseries-quotes) Package which returns random Web Series Quotes & Dialogues. It provides awesome quotes to display in your application. Get the best quotes and dialogues from best TV shows and enjoy.
@@ -47,7 +48,7 @@ console.log(Quote.getQuote());
 ```
 
 # Contributing
-
+**Star the Repo , Fork it , then make a pull request** 
 When contributing to this repository, please first discuss the change you wish to make via issue,
 email, or any other method with the owners of this repository before making a change.
 
