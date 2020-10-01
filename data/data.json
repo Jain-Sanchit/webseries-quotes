@@ -1750,5 +1750,25 @@
     {
         "Author": "Phoebe",
         "Quote": "This was back when I thought everything that rhymed was true."
-    }
+    },
+    {
+        "Quote":"I hope I can help guys come out and say, 'All right, dude, I got a manicure... and I liked it.'",
+        "Author":"Ryan Seacrest"
+     },
+     {
+        "Quote":"Transformation is a process, and as life happens there are tons of ups and downs. It's a journey of discovery - there are moments on mountaintops and moments in deep valleys of despair.",
+        "Author":"Rick Warren"
+     },
+     {
+        "Quote":"Every picture shows a spot with which the artist has fallen in love.",
+        "Author":"Alfred Sisley"
+     },
+     {
+        "Quote":"You know, Freud accepted his lot very stoically and very well and with a sense of humor. He aged and died gracefully, and there's a lot to be said for that.",
+        "Author":"Viggo Mortensen"
+     },
+     {
+        "Quote":"Time is an illusion. Lunchtime doubly so.",
+        "Author":"Douglas Adams"
+     }
 ]
