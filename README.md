@@ -81,3 +81,4 @@ email, or any other method with the owners of this repository before making a ch
 
 
 > **One day your life will flash before your eyes. Make sure it is worth watching!**
+> **The only time a man can be brave is when he's afraid.**
