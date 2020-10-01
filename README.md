@@ -47,6 +47,19 @@ const Quote = require('webseries-quotes');
 console.log(Quote.getQuote());
 ```
 
+- **_getJoke()_** method returns an object containing **_Text_**
+
+```json
+{
+  "Text": "I ate a clock yesterday, it was very time-consuming."
+}
+```
+
+```js
+const { getJoke } = require('webseries-quotes');
+console.log(getJoke());
+```
+
 # Contributing
 **Star the Repo , Fork it , then make a pull request** 
 When contributing to this repository, please first discuss the change you wish to make via issue,
