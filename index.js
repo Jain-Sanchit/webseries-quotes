@@ -1,4 +1,5 @@
 var array = require("./data/data.json");
+var jokes = require("./data/jokes.json");
 
 var quotes = {};
 
@@ -15,4 +16,11 @@ module.exports.getQuote = function (name) {
   
   
   return quotes;
+};
+
+module.exports.getJoke = function() {
+  const index = randomInt(0, jokes.length - 1);
+  const joke = jokes[index];
+
+  return joke;
 };
