@@ -95,3 +95,14 @@ email, or any other method with the owners of this repository before making a ch
 
 
 > **One day your life will flash before your eyes. Make sure it is worth watching!**
+
+```skodes1312
+ {  
+    "Quote":"Faith is the bird that feels the light when the dawn is still dark.",
+    "Author":"Rabindranath Tagore"
+ }
+ 
+ {  
+    "Quote":"You can't cross the sea merely by standing and staring at the water.",
+    "Author":"Rabindranath Tagore"
+ }
