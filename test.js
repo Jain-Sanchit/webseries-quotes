@@ -1,10 +1,11 @@
-const quoter=require('./index.js')
-var qt=quoter.getQuote();
+const { getQuote, getJoke } = require('./index.js')
+
 console.log("\n");
 
-console.log(qt.Quote);
-console.log('-'+qt.Author);
+console.log(getJoke()); // getJoke test
 
 console.log('\n');
 
+console.log(getQuote()); // getQuote test
 
+console.log('\n');
