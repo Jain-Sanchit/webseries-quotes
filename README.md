@@ -79,6 +79,8 @@ console.log(getPun());
 When contributing to this repository, please first discuss the change you wish to make via issue,
 email, or any other method with the owners of this repository before making a change.
 
+
+
 ## Pull Request Process
 
 1. Ensure any install or build dependencies are removed before the end of the layer when doing a
@@ -92,6 +94,7 @@ email, or any other method with the owners of this repository before making a ch
 
 [![Built with Love](https://forthebadge.com/images/badges/built-with-love.svg)](https://www.npmjs.com/~jain-sanchit)
 
+<a href="https://www.buymeacoffee.com/Heisenberg" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
 
 
 > **One day your life will flash before your eyes. Make sure it is worth watching!**
