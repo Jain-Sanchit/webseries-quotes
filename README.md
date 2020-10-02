@@ -60,10 +60,26 @@ const { getJoke } = require('webseries-quotes');
 console.log(getJoke());
 ```
 
+- **_getPun()_** method returns an object containing **_Text_**
+
+```json
+{
+  "Text": "I  went to a street where the houses were numbered 8k, 16k, 32k, 64k, 128k, 256k and 512k.It was a trip down Memory Lane."
+}
+```
+
+```js
+const { getPun } = require('webseries-quotes');
+console.log(getPun());
+```
+
+
 # Contributing
 **Star the Repo , Fork it , then make a pull request** 
 When contributing to this repository, please first discuss the change you wish to make via issue,
 email, or any other method with the owners of this repository before making a change.
+
+
 
 ## Pull Request Process
 
@@ -78,6 +94,7 @@ email, or any other method with the owners of this repository before making a ch
 
 [![Built with Love](https://forthebadge.com/images/badges/built-with-love.svg)](https://www.npmjs.com/~jain-sanchit)
 
+<a href="https://www.buymeacoffee.com/Heisenberg" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
 
 
 > **One day your life will flash before your eyes. Make sure it is worth watching!**

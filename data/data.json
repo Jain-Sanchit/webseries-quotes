@@ -80,6 +80,10 @@
         "Quote": "Now come on Chandler the Miami Vice soundtrack? Really?"
     },
     {
+        "Author": "Ned Stark" ,
+        "Quote": "The only time a man can be brave is when he's afraid."
+    },
+    {
         "Author": "Chandler",
         "Quote": "We're getting a house."
     },
@@ -497,7 +501,7 @@
     },
     {
         "Author": "Rachel",
-        "Quote": "Cool . Urkel in Spanish is Urkel." 
+        "Quote": "Cool . Urkel in Spanish is Urkel."
     },
     {
         "Author": "Phoebe",
@@ -1748,6 +1752,46 @@
         "Quote": "Don't interrupt me when I'm talking to God!"
     },
     {
+        "Author": "Michael Scofield",
+        "Quote": "I choose to have faith, because, without that, I have nothing… It’s the only thing that’s keeping me going."
+    },
+    {
+        "Author": "Madara Uchiha",
+        "Quote": "When a man learns to love, he must bear the risk of hatred."
+    },
+    {
+        "Author": "Cersie Lannister",
+        "Quote": "The more people you love, the weaker you are."
+    },
+    {
+        "Author": "Naruto",
+        "Quote": "It’s not over when you lose, it’s over when you give up."
+    },
+    {
+        "Author": "Tyrion Lannister",
+        "Quote": "Never forget who you are the rest of the world will not."
+    },
+    {
+        "Author": "Francis Underwood",
+        "Quote": "Shake with your right hand, but hold a rock with your left."
+    },
+    {
+        "Author": "Ned Stark",
+        "Quote": "When the snows fall, and the white winds blow, the lone wolf dies, but the pack survives."
+    },
+    {
+        "Author": "Bran Stark",
+        "Quote": "Chaos is a ladder"
+    },
+    {
+        "Author": " Ygritte",
+        "Quote": "U know nothing Jon Snow."
+    },
+    {
+        "Author": "Arya Stark",
+        "Quote": "Leave one wolf alive, and the sheep r never safe."
+    },
+    {
         "Author": "Phoebe",
         "Quote": "This was back when I thought everything that rhymed was true."
     },  
@@ -1785,6 +1829,61 @@
     },
     {
         "Author": "Nick Miller , New Girl",
-        "Quote": "Life sucks. Then it gets better. Then it sucks again."
+    },
+    {
+        "Author": "Tokyo",
+        "Quote": "In the end, love is a good reason for everything to fall apart"
+    },
+    {
+        "Author": "Lucifer",
+        "Quote": "The best thing to do is always to follow your greatest desire"
+    },
+    {
+        "Author": "Sacred games",
+        "Quote": "Jab desh ke PM ka imaan nahin toh apun sidhe raaste chal ke kya karega"
+    },
+    {
+        "Author": "Sex education",
+        "Quote": "Sometimes the people we like don't like us back, and there's nothing you can do about it"
+    },
+    {
+        "Author": "Stranger Things",
+        "Quote": "Mornings are for coffee and contemplation"
+    },
+    {
+        "Author": "Peaky Blinders",
+        "Quote": "Good taste is for people who can't afford sapphires"
+    },
+    {
+        "Author": "Mindhunter",
+        "Quote": "Um, I'm teaching a class on the intersection of sociopathy and fame"
+    },
+    {
+        "Author": "House of cards",
+        "Quote": "Money is the Mc-mansion in Sarasota that starts falling apart after 10 years"
+    },
+    {
+        "Author": "Narcos",
+        "Quote": "The bad guys need to get lucky every time"
+    },
+    {
+        "Author": "Jessica Jones",
+        "Quote": "I'M ANGRY, AND I'M NOT SURE THERE'S ANYTHING I WON'T DO ANYMORE"
+    },
+    {
+        "Author": "Black mirror",
+        "Quote": "That Internet stuff drifts off like weather. It’s half hate. They don’t mean it. The hate in a marriage, that’s in 3D"
+    },
+    {
+        "Author": "Luke Cage",
+        "Quote": "You live and die by your choices. The past is the past. And the only direction in life that matters is forward."
+    },
+    {
+        "Author": "Sense8",
+        "Quote": "I have all these voices in my head, but yours… it’s the only one I can’t live without."
+    },
+    {
+        "Author": "Silicon Valley",
+        "Quote": "If you're the CEO of a company, and you're dumb enough to leave your log-in info on a Post-It note on your desk, while the people that you ripped off are physically in your office, it's not a hack. It's barely social engineering. It’s more like natural selection."
     }
 ]
