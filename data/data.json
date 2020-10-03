@@ -1803,4 +1803,28 @@
         "Author": "Sense8",
         "Quote": "I have all these voices in my head, but yours… it’s the only one I can’t live without."
     },
+    {
+        "Author": "Doctor Who",
+        "Quote" : "The universe is big. It’s vast and complicated and ridiculous. And sometimes, very rarely, impossible things just happen and we call them miracles."
+    },
+    {
+        "Author": "The Expanse",
+        "Quote": "It’s better to go down swinging than rolling over."
+    }, 
+    {
+        "Author": "The Expanse",
+        "Quote": "As long as we’re living and breathing, there’s more we can do. We just have to be strong enough."
+    }, 
+    {
+        "Author": "The Expanse",
+        "Quote": "You know what I just can't figure out? We make it all this way, so far out into the darkness. Why couldn't we have brought more light?"
+    },
+    {
+        "Author": "Merlin",
+        "Quote": "“Search your heart. You know who he loves."
+    },
+    {
+        "Author": "Merlin",
+        "Quote": "The love that binds us is more important than the power we wield"
+    }
 ]
