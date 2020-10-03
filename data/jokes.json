@@ -16,5 +16,8 @@
   },
   {
     "Text":"relation between programmer and caffeine is explained. if(coffee.Empty){ coffee.Refill();} else{ coffee.Drink();} "
+  },
+  {
+    "Text": "What's the object-oriented way to become wealthy ? Inheritance "
   }
 ]
