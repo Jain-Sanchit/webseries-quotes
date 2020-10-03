@@ -17,7 +17,7 @@
   },
 
   {
-    "Quote": "Our thinking is shaped by dualism. Entrance, exit. Black, white. Good, evil. Everything appears as opposite pairs. But that�s wrong",
+    "Quote": "Our thinking is shaped by dualism. Entrance, exit. Black, white. Good, evil. Everything appears as opposite pairs. But that’s wrong",
     "Author":  "H G TANNHAUS"
 
   },
@@ -1759,7 +1759,7 @@
     },
     {
         "Author": "Michael Scofield",
-        "Quote": "I choose to have faith, because, without that, I have nothing… It’s the only thing that’s keeping me going."
+        "Quote": "I choose to have faith, because, without that, I have nothingâ€¦ Itâ€™s the only thing thatâ€™s keeping me going."
     },
     {
         "Author": "Madara Uchiha",
@@ -1771,7 +1771,7 @@
     },
     {
         "Author": "Naruto",
-        "Quote": "It’s not over when you lose, it’s over when you give up."
+        "Quote": "Itâ€™s not over when you lose, itâ€™s over when you give up."
     },
     {
         "Author": "Tyrion Lannister",
@@ -1819,7 +1819,7 @@
     },
     {
         "Author": "Jessica Day , New Girl",
-        "Quote": "Nick isn’t even a man. He’s some kind of man-boy, man-child hybrid. The other day I had to tell him not to pull a dog’s tail."
+        "Quote": "Nick isnâ€™t even a man. Heâ€™s some kind of man-boy, man-child hybrid. The other day I had to tell him not to pull a dogâ€™s tail."
     },
     {
         "Author": "Coach , New Girl",
@@ -1827,7 +1827,7 @@
     },
     {
         "Author": "Jessica Day , New Girl",
-        "Quote": "I’m probably fine. But I also might be dead."
+        "Quote": "Iâ€™m probably fine. But I also might be dead."
     },
     {
         "Author": "Nick Miller , New Girl",
@@ -1878,7 +1878,7 @@
     },
     {
         "Author": "Black mirror",
-        "Quote": "That Internet stuff drifts off like weather. It’s half hate. They don’t mean it. The hate in a marriage, that’s in 3D"
+        "Quote": "That Internet stuff drifts off like weather. Itâ€™s half hate. They donâ€™t mean it. The hate in a marriage, thatâ€™s in 3D"
     },
     {
         "Author": "Luke Cage",
@@ -1886,10 +1886,34 @@
     },
     {
         "Author": "Sense8",
-        "Quote": "I have all these voices in my head, but yours… it’s the only one I can’t live without."
+        "Quote": "I have all these voices in my head, but yoursâ€¦ itâ€™s the only one I canâ€™t live without."
+    },
+    {
+        "Author": "Doctor Who",
+        "Quote" : "The universe is big. Itâ€™s vast and complicated and ridiculous. And sometimes, very rarely, impossible things just happen and we call them miracles."
+    },
+    {
+        "Author": "The Expanse",
+        "Quote": "Itâ€™s better to go down swinging than rolling over."
+    }, 
+    {
+        "Author": "The Expanse",
+        "Quote": "As long as weâ€™re living and breathing, thereâ€™s more we can do. We just have to be strong enough."
+    }, 
+    {
+        "Author": "The Expanse",
+        "Quote": "You know what I just can't figure out? We make it all this way, so far out into the darkness. Why couldn't we have brought more light?"
+    },
+    {
+        "Author": "Merlin",
+        "Quote": "â€œSearch your heart. You know who he loves."
+    },
+    {
+        "Author": "Merlin",
+        "Quote": "The love that binds us is more important than the power we wield"
     },
     {
         "Author": "Silicon Valley",
-        "Quote": "If you're the CEO of a company, and you're dumb enough to leave your log-in info on a Post-It note on your desk, while the people that you ripped off are physically in your office, it's not a hack. It's barely social engineering. It’s more like natural selection."
+        "Quote": "If you're the CEO of a company, and you're dumb enough to leave your log-in info on a Post-It note on your desk, while the people that you ripped off are physically in your office, it's not a hack. It's barely social engineering. Itâ€™s more like natural selection."
     }
 ]
