@@ -15,6 +15,9 @@
     "Text": "What is the astronaut's favourite key on the keyboard? The space bar."
   },
   {
+    "Text": "A SQL query goes into a bar, walks up to two tables and asks... 'Can I join you?'."
+  },
+  {
     "Text": "relation between programmer and caffeine is explained. if(coffee.Empty){ coffee.Refill();} else{ coffee.Drink();} "
   },
   {
@@ -31,6 +34,5 @@
   }
   {
     "Text": "Did you hear about the guy who invented the knock-knock joke? He won the 'no-bell' prize."
-    "
   }
 ]
