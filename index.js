@@ -1,13 +1,13 @@
-var quotes = require("./data/data.json");
-var jokes = require("./data/jokes.json");
-var puns = require("./data/puns.json");
+const quotes = require("./data/data.json");
+const jokes = require("./data/jokes.json");
+const puns = require("./data/puns.json");
 
 function randomInt(min, max) {
   return Math.floor(Math.random() * (max - min + 1) + min);
 }
 
 module.exports.getQuote = function (name) {
-  var index = randomInt(0, quotes.length - 1);
+  const index = randomInt(0, quotes.length - 1);
   const quote = quotes[index];
   
   return quote;
